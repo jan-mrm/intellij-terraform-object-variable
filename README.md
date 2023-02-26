@@ -1,0 +1,1 @@
+# intellij-terraform-object-variable
